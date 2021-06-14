@@ -37,3 +37,10 @@
   line-height: 3;
   text-align: center;
 }
+
+canvas{
+  border: 5px ridge grey;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px black;
+  margin-top: 160px;
+}
